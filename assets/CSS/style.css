@@ -1,0 +1,63 @@
+body{
+    font-family: monospace;
+    max-width: 320px;
+    margin: auto;
+}
+section{
+    background-color: #ccc;
+    border-radius:5px;
+    padding: 5px;
+}
+
+.top{
+    background-color: #cf2b2b;
+    color: #FFF;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px  #bbb;
+}
+.top h1{
+    margin: 0;
+    font-weight: normal;
+}
+.top h2{
+    margin: 0;
+    font-size: 18px;
+}
+section h3{
+    font-size: 30px;
+    margin-top: 3px;
+    margin-bottom: 5px;
+}
+.produto{
+    background-color: #FFF;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    box-shadow: 0 0 10px  #bbb;
+    cursor: pointer;
+    border: 3px solid #FFF;
+}
+.produto h4{
+    margin-top: 0;
+    margin-bottom: 5px;
+    font-size: 20x;
+}
+.produto img{
+    width: 130px;
+    border-radius: 5px;
+    float: right;
+}
+.buttom{
+    background-color: green;
+    color: #FFF;
+    text-align: center;
+    border-radius:5px;
+    height: 30px;
+    font-size: 20px;
+    cursor: pointer;
+}
+footer{
+    font-size: 12px;
+    text-align: center;
+}
